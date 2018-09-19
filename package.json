@@ -1,0 +1,22 @@
+{
+  "name": "luatable2json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badforlabor/luatable2json.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badforlabor/luatable2json/issues"
+  },
+  "homepage": "https://github.com/badforlabor/luatable2json#readme",
+  "dependencies": {
+    "@types/node": "^10.10.1"
+  }
+}

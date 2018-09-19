@@ -1,0 +1,1027 @@
+{
+	"tap": {
+		"1": {
+			"level": "10",
+			"skillID": "AimTarget",
+			"value": [
+				"3"
+			]
+		},
+		"2": {
+			"level": "25",
+			"skillID": "AimTargetCount",
+			"value": [
+				"1"
+			]
+		},
+		"3": {
+			"level": "50",
+			"skillID": "AimTargetCount",
+			"value": [
+				"1"
+			]
+		},
+		"4": {
+			"level": "75",
+			"skillID": "AimTargetCount",
+			"value": [
+				"1"
+			]
+		},
+		"5": {
+			"level": "100",
+			"skillID": "AimTargetCount",
+			"value": [
+				"1"
+			]
+		},
+		"6": {
+			"level": "125",
+			"skillID": "AimTargetCount",
+			"value": [
+				"1"
+			]
+		},
+		"7": {
+			"level": "150",
+			"skillID": "AimTargetCount",
+			"value": [
+				"1"
+			]
+		},
+		"8": {
+			"level": "175",
+			"skillID": "AimTargetCount",
+			"value": [
+				"1"
+			]
+		},
+		"9": {
+			"level": "200",
+			"skillID": "AimTargetCount",
+			"value": [
+				"1"
+			]
+		},
+		"10": {
+			"level": "225",
+			"skillID": "AimTargetCount",
+			"value": [
+				"1"
+			]
+		},
+		"11": {
+			"level": "250",
+			"skillID": "AimTargetCount",
+			"value": [
+				"1"
+			]
+		},
+		"12": {
+			"level": "275",
+			"skillID": "AimTargetCount",
+			"value": [
+				"1"
+			]
+		},
+		"13": {
+			"level": "300",
+			"skillID": "AimTargetCount",
+			"value": [
+				"1"
+			]
+		},
+		"14": {
+			"level": "325",
+			"skillID": "AimTargetCount",
+			"value": [
+				"1"
+			]
+		},
+		"15": {
+			"level": "350",
+			"skillID": "AimTargetCount",
+			"value": [
+				"1"
+			]
+		},
+		"16": {
+			"level": "375",
+			"skillID": "AimTargetCount",
+			"value": [
+				"1"
+			]
+		},
+		"17": {
+			"level": "400",
+			"skillID": "AimTargetCount",
+			"value": [
+				"1"
+			]
+		},
+		"18": {
+			"level": "425",
+			"skillID": "AimTargetCount",
+			"value": [
+				"1"
+			]
+		}
+	},
+	"normal": {
+		"1": {
+			"level": "1",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"2": {
+			"level": "10",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"3": {
+			"level": "20",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"4": {
+			"level": "30",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"5": {
+			"level": "40",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"6": {
+			"level": "50",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"7": {
+			"level": "60",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"8": {
+			"level": "70",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"9": {
+			"level": "80",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"10": {
+			"level": "90",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"11": {
+			"level": "100",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		}
+	},
+	"prestige1": {
+		"1": {
+			"level": "-1",
+			"skillID": "Speed",
+			"value": [
+				"0.3"
+			]
+		},
+		"2": {
+			"level": "0",
+			"skillID": "Split",
+			"value": [
+				"0.4",
+				"2",
+				"2"
+			]
+		},
+		"3": {
+			"level": "1",
+			"skillID": "Bomb",
+			"value": [
+				"0.5",
+				"90",
+				"0.5",
+				"2"
+			]
+		},
+		"4": {
+			"level": "10",
+			"skillID": "CooldownSpeed",
+			"value": [
+				"0.25"
+			]
+		},
+		"5": {
+			"level": "20",
+			"skillID": "BombChance",
+			"value": [
+				"0.1"
+			]
+		},
+		"6": {
+			"level": "30",
+			"skillID": "SplitChance",
+			"value": [
+				"0.1"
+			]
+		},
+		"7": {
+			"level": "40",
+			"skillID": "CooldownSpeed",
+			"value": [
+				"0.25"
+			]
+		},
+		"8": {
+			"level": "50",
+			"skillID": "BombRange",
+			"value": [
+				"0.15"
+			]
+		},
+		"9": {
+			"level": "60",
+			"skillID": "SplitCount",
+			"value": [
+				"1"
+			]
+		},
+		"10": {
+			"level": "70",
+			"skillID": "Speed",
+			"value": [
+				"0.2"
+			]
+		},
+		"11": {
+			"level": "80",
+			"skillID": "SplitChance",
+			"value": [
+				"0.1"
+			]
+		},
+		"12": {
+			"level": "100",
+			"skillID": "BombLinkChance",
+			"value": [
+				"0.1"
+			]
+		}
+	},
+	"prestige2": {
+		"1": {
+			"level": "-1",
+			"skillID": "Speed",
+			"value": [
+				"0.3"
+			]
+		},
+		"2": {
+			"level": "0",
+			"skillID": "Split",
+			"value": [
+				"0.8",
+				"3",
+				"2"
+			]
+		},
+		"3": {
+			"level": "1",
+			"skillID": "Trace",
+			"value": [
+				"0.5",
+				"300",
+				"6",
+				"2"
+			]
+		},
+		"4": {
+			"level": "10",
+			"skillID": "CooldownSpeed",
+			"value": [
+				"0.25"
+			]
+		},
+		"5": {
+			"level": "20",
+			"skillID": "TraceChance",
+			"value": [
+				"0.1"
+			]
+		},
+		"6": {
+			"level": "30",
+			"skillID": "SplitChance",
+			"value": [
+				"0.15"
+			]
+		},
+		"7": {
+			"level": "40",
+			"skillID": "CooldownSpeed",
+			"value": [
+				"0.25"
+			]
+		},
+		"8": {
+			"level": "50",
+			"skillID": "TraceRange",
+			"value": [
+				"0.5"
+			]
+		},
+		"9": {
+			"level": "60",
+			"skillID": "TraceCount",
+			"value": [
+				"3"
+			]
+		},
+		"10": {
+			"level": "70",
+			"skillID": "SplitCount",
+			"value": [
+				"1"
+			]
+		},
+		"11": {
+			"level": "80",
+			"skillID": "Speed",
+			"value": [
+				"0.2"
+			]
+		},
+		"12": {
+			"level": "100",
+			"skillID": "CooldownSpeed",
+			"value": [
+				"0.3"
+			]
+		}
+	},
+	"prestige3": {
+		"1": {
+			"level": "-1",
+			"skillID": "Speed",
+			"value": [
+				"0.3"
+			]
+		},
+		"2": {
+			"level": "0",
+			"skillID": "Trace",
+			"value": [
+				"1",
+				"300",
+				"8",
+				"2"
+			]
+		},
+		"3": {
+			"level": "1",
+			"skillID": "Laser",
+			"value": [
+				"0.8",
+				"200",
+				"2",
+				"0.5"
+			]
+		},
+		"4": {
+			"level": "10",
+			"skillID": "CooldownSpeed",
+			"value": [
+				"0.25"
+			]
+		},
+		"5": {
+			"level": "20",
+			"skillID": "TraceRange",
+			"value": [
+				"0.5"
+			]
+		},
+		"6": {
+			"level": "30",
+			"skillID": "LaserChance",
+			"value": [
+				"0.1"
+			]
+		},
+		"7": {
+			"level": "40",
+			"skillID": "CooldownSpeed",
+			"value": [
+				"0.25"
+			]
+		},
+		"8": {
+			"level": "50",
+			"skillID": "LaserRange",
+			"value": [
+				"0.2"
+			]
+		},
+		"9": {
+			"level": "60",
+			"skillID": "LaserCount",
+			"value": [
+				"1"
+			]
+		},
+		"10": {
+			"level": "70",
+			"skillID": "TraceCount",
+			"value": [
+				"4"
+			]
+		},
+		"11": {
+			"level": "80",
+			"skillID": "Speed",
+			"value": [
+				"0.2"
+			]
+		},
+		"12": {
+			"level": "100",
+			"skillID": "CooldownSpeed",
+			"value": [
+				"0.5"
+			]
+		}
+	},
+	"prestige4": {
+		"1": {
+			"level": "-1",
+			"skillID": "Speed",
+			"value": [
+				"0.3"
+			]
+		},
+		"2": {
+			"level": "0",
+			"skillID": "Trace",
+			"value": [
+				"0.4",
+				"300",
+				"8",
+				"2"
+			]
+		},
+		"3": {
+			"level": "1",
+			"skillID": "Split",
+			"value": [
+				"0.4",
+				"4",
+				"2"
+			]
+		},
+		"4": {
+			"level": "10",
+			"skillID": "CooldownSpeed",
+			"value": [
+				"0.25"
+			]
+		},
+		"5": {
+			"level": "20",
+			"skillID": "TraceChance",
+			"value": [
+				"0.1"
+			]
+		},
+		"6": {
+			"level": "30",
+			"skillID": "SplitChance",
+			"value": [
+				"0.1"
+			]
+		},
+		"7": {
+			"level": "40",
+			"skillID": "CooldownSpeed",
+			"value": [
+				"0.25"
+			]
+		},
+		"8": {
+			"level": "50",
+			"skillID": "TraceRange",
+			"value": [
+				"0.3"
+			]
+		},
+		"9": {
+			"level": "60",
+			"skillID": "TraceCount",
+			"value": [
+				"4"
+			]
+		},
+		"10": {
+			"level": "70",
+			"skillID": "SplitCount",
+			"value": [
+				"1"
+			]
+		},
+		"11": {
+			"level": "80",
+			"skillID": "Speed",
+			"value": [
+				"0.2"
+			]
+		},
+		"12": {
+			"level": "100",
+			"skillID": "CooldownSpeed",
+			"value": [
+				"0.25"
+			]
+		}
+	},
+	"prestige5": {
+		"1": {
+			"level": "-1",
+			"skillID": "Speed",
+			"value": [
+				"0.3"
+			]
+		},
+		"2": {
+			"level": "0",
+			"skillID": "Trace",
+			"value": [
+				"0.4",
+				"500",
+				"8",
+				"2"
+			]
+		},
+		"3": {
+			"level": "1",
+			"skillID": "Split",
+			"value": [
+				"0.4",
+				"4",
+				"2"
+			]
+		},
+		"4": {
+			"level": "10",
+			"skillID": "CooldownSpeed",
+			"value": [
+				"0.25"
+			]
+		},
+		"5": {
+			"level": "20",
+			"skillID": "TraceChance",
+			"value": [
+				"0.1"
+			]
+		},
+		"6": {
+			"level": "30",
+			"skillID": "TraceChance",
+			"value": [
+				"0.1"
+			]
+		},
+		"7": {
+			"level": "40",
+			"skillID": "CooldownSpeed",
+			"value": [
+				"0.25"
+			]
+		},
+		"8": {
+			"level": "50",
+			"skillID": "LaserRange",
+			"value": [
+				"0.3"
+			]
+		},
+		"9": {
+			"level": "60",
+			"skillID": "LaserCount",
+			"value": [
+				"1"
+			]
+		},
+		"10": {
+			"level": "70",
+			"skillID": "TraceCount",
+			"value": [
+				"4"
+			]
+		},
+		"11": {
+			"level": "80",
+			"skillID": "Speed",
+			"value": [
+				"0.2"
+			]
+		},
+		"12": {
+			"level": "100",
+			"skillID": "CooldownSpeed",
+			"value": [
+				"0.25"
+			]
+		}
+	},
+	"split1": {
+		"1": {
+			"level": "-1",
+			"skillID": "Speed",
+			"value": [
+				"0.3"
+			]
+		},
+		"2": {
+			"level": "0",
+			"skillID": "Bomb",
+			"value": [
+				"1",
+				"90",
+				"0.5",
+				"2"
+			]
+		},
+		"3": {
+			"level": "1",
+			"skillID": "Speed",
+			"value": [
+				"0.2"
+			]
+		},
+		"4": {
+			"level": "10",
+			"skillID": "CooldownSpeed",
+			"value": [
+				"0.25"
+			]
+		},
+		"5": {
+			"level": "20",
+			"skillID": "BombRange",
+			"value": [
+				"0.2"
+			]
+		},
+		"6": {
+			"level": "30",
+			"skillID": "BombLinkChance",
+			"value": [
+				"0.1"
+			]
+		},
+		"7": {
+			"level": "40",
+			"skillID": "Speed",
+			"value": [
+				"0.2"
+			]
+		},
+		"8": {
+			"level": "50",
+			"skillID": "BombRange",
+			"value": [
+				"0.15"
+			]
+		},
+		"9": {
+			"level": "60",
+			"skillID": "CooldownSpeed",
+			"value": [
+				"0.25"
+			]
+		},
+		"10": {
+			"level": "70",
+			"skillID": "Speed",
+			"value": [
+				"0.2"
+			]
+		},
+		"11": {
+			"level": "80",
+			"skillID": "Speed",
+			"value": [
+				"0.2"
+			]
+		},
+		"12": {
+			"level": "100",
+			"skillID": "BombLinkChance",
+			"value": [
+				"0.1"
+			]
+		}
+	},
+	"split2": {
+		"1": {
+			"level": "-1",
+			"skillID": "Speed",
+			"value": [
+				"0.3"
+			]
+		},
+		"2": {
+			"level": "0",
+			"skillID": "Trace",
+			"value": [
+				"1",
+				"300",
+				"6",
+				"2"
+			]
+		},
+		"3": {
+			"level": "1",
+			"skillID": "CooldownSpeed",
+			"value": [
+				"0.25"
+			]
+		},
+		"4": {
+			"level": "10",
+			"skillID": "Speed",
+			"value": [
+				"0.1"
+			]
+		},
+		"5": {
+			"level": "20",
+			"skillID": "CooldownSpeed",
+			"value": [
+				"0.25"
+			]
+		},
+		"6": {
+			"level": "30",
+			"skillID": "TraceRange",
+			"value": [
+				"0.5"
+			]
+		},
+		"7": {
+			"level": "40",
+			"skillID": "Speed",
+			"value": [
+				"0.1"
+			]
+		},
+		"8": {
+			"level": "50",
+			"skillID": "TraceRange",
+			"value": [
+				"0.5"
+			]
+		},
+		"9": {
+			"level": "60",
+			"skillID": "Speed",
+			"value": [
+				"0.1"
+			]
+		},
+		"10": {
+			"level": "70",
+			"skillID": "CooldownSpeed",
+			"value": [
+				"0.25"
+			]
+		},
+		"11": {
+			"level": "80",
+			"skillID": "Speed",
+			"value": [
+				"0.1"
+			]
+		},
+		"12": {
+			"level": "100",
+			"skillID": "TraceRange",
+			"value": [
+				"0.5"
+			]
+		}
+	},
+	"split4": {
+		"1": {
+			"level": "-1",
+			"skillID": "Speed",
+			"value": [
+				"0.3"
+			]
+		},
+		"2": {
+			"level": "0",
+			"skillID": "Trace",
+			"value": [
+				"1",
+				"400",
+				"6",
+				"2"
+			]
+		},
+		"3": {
+			"level": "1",
+			"skillID": "Laser",
+			"value": [
+				"1",
+				"200",
+				"2",
+				"2"
+			]
+		},
+		"4": {
+			"level": "10",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"5": {
+			"level": "20",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"6": {
+			"level": "30",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"7": {
+			"level": "40",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"8": {
+			"level": "50",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"9": {
+			"level": "60",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"10": {
+			"level": "70",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"11": {
+			"level": "80",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"12": {
+			"level": "100",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		}
+	},
+	"split5": {
+		"1": {
+			"level": "-1",
+			"skillID": "Speed",
+			"value": [
+				"0.3"
+			]
+		},
+		"2": {
+			"level": "0",
+			"skillID": "Trace",
+			"value": [
+				"1",
+				"300",
+				"8",
+				"2"
+			]
+		},
+		"3": {
+			"level": "1",
+			"skillID": "Laser",
+			"value": [
+				"1",
+				"300",
+				"3",
+				"1"
+			]
+		},
+		"4": {
+			"level": "10",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"5": {
+			"level": "20",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"6": {
+			"level": "30",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"7": {
+			"level": "40",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"8": {
+			"level": "50",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"9": {
+			"level": "60",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"10": {
+			"level": "70",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"11": {
+			"level": "80",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		},
+		"12": {
+			"level": "100",
+			"skillID": "Speed",
+			"value": [
+				"0.05"
+			]
+		}
+	}
+}
