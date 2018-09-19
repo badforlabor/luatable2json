@@ -96,7 +96,7 @@ function getValue(obj): any {
             return output
         }
     } else if (t == 'NumericLiteral') {
-        return obj['raw']
+        return obj['value']
     } else if (t == 'StringLiteral') {
         return obj['value']
     } else if (t == 'UnaryExpression') {
