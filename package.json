@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/badforlabor/luatable2json#readme",
   "dependencies": {
-    "@types/node": "^10.10.1"
+    "@types/node": "^10.10.1",
+    "luaparse": "^0.2.1"
   }
 }

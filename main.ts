@@ -1,4 +1,5 @@
 import * as fs from 'fs'
+import * as luaparse from 'luaparse'
 
 function parseLuaJson(obj, output) {
 
@@ -109,16 +110,22 @@ function getValue(obj): any {
     throw '无法识别的value:' + t
 }
 
-function main() {
-    // 读取json文件
-    let path = "1.json"
-    let data = fs.readFileSync(path)
+function testLuaTable(file) {
 
-    let obj = JSON.parse(data.toString())
+    // 读取json文件
+    let data = fs.readFileSync(file)
+    let obj = luaparse.parse(data.toString())
+
+    //let obj = JSON.parse(data.toString())
     let output = {}
     parseLuaJson(obj, output)
     // console.log(JSON.stringify(output))
-    fs.writeFileSync('2.json', JSON.stringify(output, null, '\t'))
+    fs.writeFileSync(file + '.json', JSON.stringify(output, null, '\t'))
+}
+
+function main() {
+    testLuaTable('lua\\BallLevelMeta.lua')
+    testLuaTable('lua\\BallListMeta.lua')
 }
 
 main()
