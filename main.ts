@@ -73,6 +73,9 @@ function getKey(obj): any {
     if (t == 'NumericLiteral') {
         return obj['value'].toString()
     }
+    if (t == 'StringLiteral') {
+        return obj['value']
+    }
     throw '无法识别的key'
 }
 
@@ -110,7 +113,13 @@ function getValue(obj): any {
     throw '无法识别的value:' + t
 }
 
-function testLuaTable(file) {
+function testLuaTable(file: string) {
+    if (file.substr(file.length - 4) == '.lua') {
+
+    } else {
+        return
+    }
+
 
     // 读取json文件
     let data = fs.readFileSync(file)
@@ -122,10 +131,18 @@ function testLuaTable(file) {
     // console.log(JSON.stringify(output))
     fs.writeFileSync(file + '.json', JSON.stringify(output, null, '\t'))
 }
+function doDir() {
+    let dir = 'lua\\'
+    let files = fs.readdirSync(dir)
+    for (let i = 0; i < files.length; i++) {
+        testLuaTable(dir + files[i])
+    }
+}
 
 function main() {
-    testLuaTable('lua\\BallLevelMeta.lua')
-    testLuaTable('lua\\BallListMeta.lua')
+    // testLuaTable('lua\\BallLevelMeta.lua')
+    // testLuaTable('lua\\BallListMeta.lua')
+    doDir()
 }
 
 main()
